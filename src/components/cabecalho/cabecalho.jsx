@@ -12,6 +12,9 @@ export default function Cabecalho() {
           <Link href="/produtos/calca">CALÇA</Link>
         </li>
         <li>
+          <Link href="/usuarios-git">GIT-USERS</Link>
+        </li>
+        <li>
           <Link href="/produtos/camisa">CAMISA</Link>
         </li>
         <li>
